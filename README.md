@@ -37,3 +37,9 @@ You can monitor the progress of the processing tasks with real-time progress bar
 ### Improvements & Future Work
 Implement more advanced image processing techniques (e.g., edge detection, segmentation).
 Extend signal processing to handle other types of filtering (e.g., Fourier transform).
+### Input Image
+![th (1)](https://github.com/user-attachments/assets/dd0d63fe-97f2-41f1-b71c-8a868e44450c)
+### Output image
+![2](https://github.com/user-attachments/assets/e476ada8-7e6a-4965-b074-bab519b6cc2a)
+
+
